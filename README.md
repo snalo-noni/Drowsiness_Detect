@@ -17,13 +17,9 @@ A real time computer vision application built with **Python** and **OpenCV** to 
 * **OpenCV (`opencv-python`)**
 * **NumPy**
 
----
 
-## Getting Started
 
-### Prerequisites
-* Python 3.8 or higher
-* Built-in or external USB Webcam
+
 
 
 
